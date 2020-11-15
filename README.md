@@ -3,4 +3,5 @@
 ## Watermarks
 
 - Run `composer install` command
+- Create `.env` file and run `php artisan key:generate` command
 - Create the symbolic link: `php artisan storage:link`
